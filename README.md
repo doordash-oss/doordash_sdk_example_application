@@ -56,4 +56,4 @@ If you would like to contribute to the DoorDash SDK Example Application, please 
 
 ### Apple M1 users
 
-If you're running an older version of Node on an M1 processor you may run into application memory issues. (Upgrading Node to 15.3 or higher)[https://stackoverflow.com/questions/65856300/wasm-code-commit-allocation-failed-process-out-of-memory] should resolve these issues.
+If you're running an older version of Node on an M1 processor you may run into application memory issues. [Upgrading Node to 15.3 or higher](https://stackoverflow.com/questions/65856300/wasm-code-commit-allocation-failed-process-out-of-memory) should resolve these issues.
